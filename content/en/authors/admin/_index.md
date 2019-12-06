@@ -26,10 +26,16 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/shyshi
+- icon: cv
+  icon_pack: ai
+  link: files/CV-EN.pdf
 superuser: true
 user_groups:
 - Researchers
 - Visitors
+
+
+
 ---
 
 I'm a postdoc research working at Institute of High Energy Physics, Chinese Academy of Sciences. I am working on MDI Background Issues on CEPC. My research insterest also include radiation protection related issues. 
