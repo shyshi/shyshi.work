@@ -28,7 +28,7 @@ social:
   link: https://github.com/shyshi
 - icon: cv
   icon_pack: ai
-  link: files/CV-EN.pdf
+  link: files/cv_en.pdf
 superuser: true
 user_groups:
 - Researchers
