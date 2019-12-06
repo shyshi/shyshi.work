@@ -32,4 +32,4 @@ user_groups:
 - Visitors
 ---
 
-Haoyu Shi is a postdoc fellow of Institute of High Energy Physics, Chinese Academy of Sciences. He is working on MDI Background Issues on CEPC. His research insterest also include radiation protection related ones. 
+I'm a postdoc research working at Institute of High Energy Physics, Chinese Academy of Sciences. I am working on MDI Background Issues on CEPC. My research insterest also include radiation protection related issues. 
