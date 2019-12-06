@@ -38,4 +38,4 @@ user_groups:
 
 ---
 
-I'm a postdoc research working at Institute of High Energy Physics, Chinese Academy of Sciences. I am working on MDI Background Issues on CEPC. My research insterest also include radiation protection related issues. 
+I'm a postdoc researcher working at Institute of High Energy Physics, Chinese Academy of Sciences. I am working on MDI Background Issues on CEPC. My research insterest also include radiation protection related issues. 
