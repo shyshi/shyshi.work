@@ -5,7 +5,7 @@ bio: My research interests include radiation physics/protection. Now working on 
 education:
   courses:
   - course: PhD in Radiation Protection
-    institution: Institute of High Energy Physics, Chinese Academy of Sciences.
+    institution: Unversity of Chinese Academy of Sciences.
     year: 2018
   - course: BSc in Nuclear Physics and Technology
     institution: Fudan University
@@ -13,10 +13,10 @@ education:
 email: "shyshi@shyshi.work"
 interests:
 - Radiation Protection
-- Beam Backgrounds
+- Detector Beam Backgrounds
 name: Haoyu Shi
 organizations:
-- name: Institute of High Energy Physics, CAS
+- name: Institute of High Energy Physics, Chinese Academy of Sciences
   url: "http://www.ihep.cas.cn"
 role: Postdoc
 social:
