@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include radiation physics/protection. Now working on MDI Backgrounds on CEPC.
+bio: My research interests include radiation physics/protection. Now working on MDI Background issues on CEPC.
 education:
   courses:
   - course: PhD in Radiation Protection
@@ -13,7 +13,7 @@ education:
 email: "shyshi@shyshi.work"
 interests:
 - Radiation Protection
-- Detector Beam Backgrounds
+- MDI Beam Backgrounds
 name: Haoyu Shi
 organizations:
 - name: Institute of High Energy Physics, Chinese Academy of Sciences
